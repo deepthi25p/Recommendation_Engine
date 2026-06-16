@@ -51,7 +51,7 @@ Request → Cache Check
 ## 📂 Project Structure
 
 ```text
-day30_capstone/
+recommendation_engine/
 │
 ├── data/
 │   ├── database.py
